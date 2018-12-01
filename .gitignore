@@ -68,3 +68,5 @@ node_modules/
 public/
 .deploy*/
 .idea
+
+source/_posts/*

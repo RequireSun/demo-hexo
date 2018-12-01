@@ -83,6 +83,8 @@
     如果你的网站并不是部署在域名的根目录上 (如 http://your.host.com/xxx)
     需要修改 root 参数增加你的 path, 否则你的网站的 css js 文件将会消失 (因为目录不对加载不上)
 
+    reference: [https://github.com/hexojs/hexo/issues/3034#issuecomment-367548333](https://github.com/hexojs/hexo/issues/3034#issuecomment-367548333)
+
     ```
     root: /xxx
     ```
