@@ -13,8 +13,8 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
-root: /
+url: https://requiresun.github.io/demo-hexo/
+root: /demo-hexo
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
@@ -80,4 +80,4 @@ theme: hexo-theme-autumn
 deploy:
   type: git
   repo: https://github.com/RequireSun/demo-hexo.git
-  branch: page
+  branch: gh-pages
